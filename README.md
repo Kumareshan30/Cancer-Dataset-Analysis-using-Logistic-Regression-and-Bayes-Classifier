@@ -1,4 +1,4 @@
-# Linear Regression vs Bayes Classifier
+# Logistic Regression vs Bayes Classifier
 
 ## Project Overview
 This project involves implementing various data science techniques to analyze a given dataset. The objective is to perform **data preprocessing, feature engineering, exploratory data analysis (EDA), and model evaluation** to extract meaningful insights and optimize model performance.
