@@ -16,7 +16,7 @@ The notebook includes:
 
 
 ## Folder Structure
-Loan_Application_Analysis/
+Logistic Regression vs Bayes Classifier/
       
    ├── LogisticRegressionandBayesClassifier.ipynb   # Jupyter Notebook implementing the analysis
    
